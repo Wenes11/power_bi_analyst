@@ -28,7 +28,7 @@ O relatório final é composto por 3 páginas, sendo as duas primeiras réplicas
 ## 🖼️ Dashboard Final (Página 3)
 
 *Observação: Verifique se o nome do arquivo de imagem está correto (se é .jpg, .png, etc.)*
-![Prévia do Dashboard](img/desafioPowerBi.jpg)
+![Prévia do Dashboard](img/desafioPowerBi.png)
 
 ---
 
